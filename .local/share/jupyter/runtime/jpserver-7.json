@@ -1,0 +1,13 @@
+{
+  "base_url": "/jhub/user/judith.mallama@udea.edu.co/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 7,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://jupyter-judith-2emallama-40udea-2eedu-2eco:8888/jhub/user/judith.mallama@udea.edu.co/",
+  "version": "1.24.0"
+}
